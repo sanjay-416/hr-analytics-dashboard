@@ -32,9 +32,9 @@ Organizations struggle to understand employee attrition and its key drivers. Thi
 
 ## 📊 Dashboard Preview
 
-![Power BI](dashboards/Power BI_Dashboard.png)
+![Power BI](Dashboards/Power BI_Dashboard.png)
 
-![Tableau](dashboards/ Tableau_Dashboard.png)
+![Tableau](Dashboards/Tableau_Dashboard.png)
 
 ---
 
