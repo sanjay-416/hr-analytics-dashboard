@@ -1,29 +1,58 @@
 # HR Analytics Dashboard
 
-## 📌 Project Overview
-This project analyzes employee data to understand attrition patterns, salary distribution, and work-life balance across departments.
+## 📌 Problem Statement
+Organizations struggle to understand employee attrition and its key drivers. This project analyzes HR data to identify patterns in attrition, salary distribution, and employee satisfaction.
 
-## 🛠 Tools Used
-- Excel
+---
+
+## 🛠 Tools & Technologies
 - SQL (MySQL)
 - Power BI
 - Tableau
+- Excel
 
-## 📊 Key Insights
-- Employee attrition rate is around 50%
+---
+
+## 📊 Key Analysis Performed
+- Employee Attrition Analysis
+- Department-wise Attrition Trends
+- Attrition vs Monthly Income
+- Promotion Gap Analysis
+- Work-Life Balance Impact
+
+---
+
+## 📈 Key Insights
+- Overall attrition rate is around 50%
 - Attrition is consistent across departments
-- Longer promotion gaps slightly increase attrition
-- Work-life balance impacts employee retention
+- Employees with longer promotion gaps show slightly higher attrition
+- Work-life balance plays a role in retention
 
-## 📁 Project Files
-- Dataset (if included)
-- Dashboard files
-- SQL queries
+---
+
+## 📊 Dashboard Preview
+
+![Power BI](dashboards/PowerBI_Dashboard.png)
+
+![Tableau](dashboards/Tableau_Dashboard.png)
+
+---
+
+## 📁 Project Structure
+
+- `data/` → Dataset used
+- `scripts/` → SQL queries
+- `reports/` → Power BI & Tableau dashboards
+- `dashboards/` → Dashboard screenshots
+
+---
 
 ## 🚀 How to Use
-1. Open dataset in Excel / SQL
-2. Run queries
-3. Open dashboard files in Power BI/Tableau
+1. Open dataset from `data/`
+2. Run SQL queries from `scripts/`
+3. Open dashboards in Power BI / Tableau
+
+---
 
 ## 👤 Author
 Sanjay Reddy Challa
