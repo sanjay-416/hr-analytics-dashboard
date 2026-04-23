@@ -52,7 +52,7 @@ Organizations struggle to understand employee attrition and its key drivers. Thi
 
 The dataset used in this project is large and not uploaded to GitHub.
 
-🔗 [Download Dataset]([https://drive.google.com/drive/folders/1My_IT-j8OpfV9QIkm6IYYxgOt_d240a3?usp=sharing](https://drive.google.com/drive/folders/1My_IT-j8OpfV9Qlkn6IYYXgOt_d240a3?usp=sharing))
+🔗 [Download Dataset]([https://drive.google.com/drive/folders/1My_IT-j8OpfV9QIkm6IYYxgOt_d240a3?usp=sharing])
 
 ---
 
