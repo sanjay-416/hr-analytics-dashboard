@@ -43,7 +43,7 @@ Organizations struggle to understand employee attrition and its key drivers. Thi
 
 - `data/` → Dataset used
 - `scripts/` → SQL queries
-- `reports/` → Power BI & Tableau dashboards
+- `reports/` → Excel, Power BI & Tableau dashboards
 - `dashboards/` → Dashboard screenshots
 
 ---
