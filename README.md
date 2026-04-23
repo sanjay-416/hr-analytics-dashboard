@@ -48,6 +48,14 @@ Organizations struggle to understand employee attrition and its key drivers. Thi
 
 ---
 
+## 📁 Dataset
+
+The dataset used in this project is large and not uploaded to GitHub.
+
+🔗 [Download Dataset](https://drive.google.com/drive/folders/1My_IT-j8OpfV9QIkm6IYYxgOt_d240a3?usp=sharing)
+
+---
+
 ## 🚀 How to Use
 1. Open dataset from `data/`
 2. Run SQL queries from `scripts/`
